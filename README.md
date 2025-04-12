@@ -8,10 +8,7 @@
 
 ## 🧠 Sobre mí
 
-- 💻 Trabajo principalmente con **React Native**, **React**, **Node.js*, **Spring Boot**, **PhP**, 
-- 🎯 Actualmente enfocado en construir apps móviles funcionales y con propósito social  
-- 📚 Siempre aprendiendo nuevas herramientas y técnicas (UX, diseño, accesibilidad)  
-- ⚡ Fun fact: Me inspiro escuchando lo-fi mientras codeo 🎧
+- 💻 Trabajo principalmente con **React Native**, **React**, **Node.js**, **Spring Boot**, **PhP**, 
 
 ---
 
@@ -34,10 +31,5 @@
 ---
 
 
-
-
-### 🧩 ¿Sabías?
-
-> Este README se renderiza directamente en tu perfil de GitHub. Podés usarlo para presentarte al mundo 👀
 
 
