@@ -18,8 +18,9 @@
 ## 🛠️ Tecnologías y herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nativejs,nodejs,js,ts,expo,vscode,php, python,java,springboot" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,js,ts,expo,vscode,php,python,java,spring" />
 </div>
+
 
 ---
 
